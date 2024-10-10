@@ -1,0 +1,2 @@
+He aprendido que Git es un sistema de control de versiones distribuido y 
+GitHub es una plataforma de hosting de repositorios remotos donde puedo colaborar con otros.
